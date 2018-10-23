@@ -79,7 +79,7 @@
                     <designs>
                         <design>src\main\resources\user.erm</design>
                     </designs>
-                    <targetModule>com.keking.plugin.kkerm.ermentity</targetModule>
+                    <targetModule>com.keking.plugin.kkerm.ermentity.</targetModule>
                     <outputDirectory>${project.build.directory}\model</outputDirectory>
                 </configuration>
                 <executions>
